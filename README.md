@@ -44,8 +44,6 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=umimehar&show_icons=true&locale=en&layout=compact" alt="umimehar" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umimehar&show_icons=true&locale=en" alt="umimehar" /></p> -->
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=umimehar&" alt="umimehar" /></p>
