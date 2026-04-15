@@ -15,13 +15,14 @@
 
 ### About Me
 
-I'm **Umar Farooq Aslam** — a Senior Software Engineer & Solutions Architect with **7+ years** of experience building scalable systems across **FinTech, HealthTech, e-commerce, and Web3**.
+Senior Software Engineer with **9+ years** of experience building and scaling web & mobile applications across **Web3, FinTech, HealthTech, and Maps**. Proven end-to-end owner delivering secure, high-performance products for top-tier clients including **Coinbase**, **Google**, and **Berachain**.
 
-- Led engineering teams and served as a **Founding Engineer** at early-stage startups
-- Built platforms across **insurance, banking, e-commerce, and mapping** domains
-- Architecting cloud-native infrastructure, microservices, and DevOps pipelines
-- Currently focused on **Generative AI** and **AI agent orchestration**
-- Based in **Dubai, UAE**
+- Modernized **Coinbase's web wallet** and integrated **Farcaster Frames** into the Base app
+- Led frontend development of the **Berachain Token Bridge** (LayerZero, cross-chain)
+- Built crypto trading interfaces, private-market investment platforms, and M&A due diligence tools
+- Architected microservices, microfrontends, and CI/CD pipelines on **AWS & Azure**
+- Startup founder — selected for **Plan9 Tech Incubator** (Pakistan) and **YEDI at York University** (Canada)
+- Based in **Toronto, Canada**
 
 ---
 
@@ -46,11 +47,13 @@ I'm **Umar Farooq Aslam** — a Senior Software Engineer & Solutions Architect w
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -62,8 +65,10 @@ I'm **Umar Farooq Aslam** — a Senior Software Engineer & Solutions Architect w
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
@@ -73,8 +78,12 @@ I'm **Umar Farooq Aslam** — a Senior Software Engineer & Solutions Architect w
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
+![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
 
 ---
 
