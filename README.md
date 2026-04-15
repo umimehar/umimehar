@@ -48,7 +48,10 @@ I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a 
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -79,8 +82,12 @@ I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=umimehar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umimehar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<a href="https://github.com/umimehar">
+  <img src="https://github-readme-stats.vercel.app/api?username=umimehar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/umimehar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umimehar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
+</a>
 
 </div>
 
