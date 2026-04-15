@@ -15,7 +15,7 @@
 
 ### About Me
 
-Senior Software Engineer with **9+ years** of experience building and scaling web & mobile applications across **Web3, FinTech, HealthTech, and Maps**. Proven end-to-end owner delivering secure, high-performance products for top-tier clients including **Coinbase**, **Google**, and **Berachain**.
+Senior Software Engineer & Solutions Architect building and scaling web & mobile applications across **Web3, FinTech, HealthTech, and Maps**. Proven end-to-end owner delivering secure, high-performance products for top-tier clients including **Coinbase**, **Google**, and **Berachain**.
 
 - Modernized **Coinbase's web wallet** and integrated **Farcaster Frames** into the Base app
 - Led frontend development of the **Berachain Token Bridge** (LayerZero, cross-chain)
