@@ -15,12 +15,13 @@
 
 ### About Me
 
-I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a passion for building scalable, innovative solutions across the full stack.
+I'm **Umar Farooq Aslam** — a Senior Software Engineer & Solutions Architect with **7+ years** of experience building scalable systems across **FinTech, HealthTech, e-commerce, and Web3**.
 
-- Designing and building end-to-end web and mobile applications
-- Architecting cloud-native infrastructure and DevOps pipelines
-- Exploring AI/ML integrations and blockchain technologies
-- Always learning, always shipping
+- Led engineering teams and served as a **Founding Engineer** at early-stage startups
+- Built platforms across **insurance, banking, e-commerce, and mapping** domains
+- Architecting cloud-native infrastructure, microservices, and DevOps pipelines
+- Currently focused on **Generative AI** and **AI agent orchestration**
+- Based in **Dubai, UAE**
 
 ---
 
@@ -32,6 +33,7 @@ I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,6 +41,7 @@ I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a 
 
 **Frontend**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -61,6 +64,7 @@ I'm **Umar Farooq Aslam** — a Software Engineer and Solution Architect with a 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 **DevOps & Cloud**
