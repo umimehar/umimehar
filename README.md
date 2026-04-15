@@ -21,8 +21,8 @@ Senior Software Engineer & Solutions Architect building and scaling web & mobile
 - Led frontend development of the **Berachain Token Bridge** (LayerZero, cross-chain)
 - Built crypto trading interfaces, private-market investment platforms, and M&A due diligence tools
 - Architected microservices, microfrontends, and CI/CD pipelines on **AWS & Azure**
-- Startup founder — selected for **Plan9 Tech Incubator** (Pakistan) and **YEDI at York University** (Canada)
-- Based in **Toronto, Canada**
+- Led engineering teams, scaled products from **zero to launch**, and built **HIPAA-compliant** healthcare platforms
+- Owned engineering for Coinbase's **Onchain Summer 2** campaign — daily on-chain experiences + hackathon with **200 ETH** in prizes
 
 ---
 
