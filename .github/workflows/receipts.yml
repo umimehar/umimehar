@@ -31,7 +31,7 @@ jobs:
             const c = user.contributionsCollection;
             const total = c.contributionCalendar.totalContributions;
             if (!total) throw new Error('GitHub returned zero contributions; refusing to overwrite README');
-            const share = Math.round((c.restrictedContributionsCount / total) * 100);
+            const share = Math.floor((c.restrictedContributionsCount / total) * 100);
             const line = `**Past 12 months:** ${total.toLocaleString('en-US')} contributions, ` +
               `${share}% of them in private client repos. That is why the public repos below are quiet.`;
             const readme = fs.readFileSync('README.md', 'utf8');
