@@ -1,29 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="262" viewBox="0 0 840 262" role="img" aria-label="7,042 contributions on GitHub in the last 12 months, 99% of them client work in private repositories. Recalculated every Monday; last updated Nov 10, 2026.">
-  <rect x="0.5" y="0.5" width="839" height="261" rx="12" fill="#161B22" stroke="#30363D"/>
-  <text x="32" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8B949E">MY GITHUB ACTIVITY · LAST 12 MONTHS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="206" viewBox="0 0 840 206" role="img" aria-label="7,044 contributions on GitHub in the last 12 months, 99% of them client work in private repositories. Recalculated every Monday; last updated Nov 10, 2026.">
+  <rect x="0.5" y="0.5" width="839" height="205" rx="12" fill="#161B22" stroke="#30363D"/>
+  <text x="28" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#8B949E">MY GITHUB ACTIVITY · LAST 12 MONTHS</text>
 
-  <text x="32" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="#E6EDF3">7,042</text>
-  <text x="32" y="114" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">contributions</text>
-  <text x="32" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">code changes, pull requests</text>
-  <text x="32" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">and code reviews</text>
+  <text x="28" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="700" fill="#E6EDF3">7,044</text>
+  <text x="28" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">contributions</text>
+  <text x="28" y="116" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">code changes, pull requests, reviews</text>
 
-  <text x="272" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="#3FB950">99%</text>
-  <text x="272" y="114" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">of it is client work</text>
-  <text x="272" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">done in private company code</text>
-  <text x="272" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">that is not open to the public</text>
+  <text x="270" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="700" fill="#3FB950">99%</text>
+  <text x="270" y="98" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">of it is client work</text>
+  <text x="270" y="116" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">in private company code, not public</text>
 
-  <text x="520" y="80" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Why so few public projects?</text>
-  <text x="520" y="102" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">My work belongs to the companies I build</text>
-  <text x="520" y="120" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">for, so it stays private. GitHub still</text>
-  <text x="520" y="138" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">counts it, which is where these numbers</text>
-  <text x="520" y="156" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">come from.</text>
+  <text x="520" y="62" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">Why so few public projects?</text>
+  <text x="520" y="82" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">My work belongs to the companies I build for,</text>
+  <text x="520" y="99" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">so it stays private. GitHub still counts it,</text>
+  <text x="520" y="116" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">which is where these numbers come from.</text>
 
-  <rect x="32" y="178" width="776" height="8" rx="4" fill="#21262D"/>
-  <rect x="32" y="178" width="768" height="8" rx="4" fill="#3FB950"/>
-  <text x="32" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#3FB950">Private client work · 99%</text>
-  <text x="808" y="204" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Public · 1%</text>
+  <rect x="28" y="136" width="784" height="6" rx="3" fill="#21262D"/>
+  <rect x="28" y="136" width="776" height="6" rx="3" fill="#3FB950"/>
+  <text x="28" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#3FB950">Private client work · 99%</text>
+  <text x="812" y="158" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">Public · 1%</text>
 
-  <line x1="32" y1="220" x2="808" y2="220" stroke="#30363D"/>
-  <text x="32" y="244" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">↻ Recalculated automatically every Monday from GitHub's own records.</text>
-  <text x="808" y="244" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#E6EDF3">Last updated Nov 10, 2026</text>
+  <line x1="28" y1="172" x2="812" y2="172" stroke="#30363D"/>
+  <text x="28" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#8B949E">↻ Recalculated automatically every Monday from GitHub's own records.</text>
+  <text x="812" y="192" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#E6EDF3">Last updated Nov 10, 2026</text>
 </svg>
