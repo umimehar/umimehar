@@ -4,8 +4,8 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Forward+Deployed+Engineer+%26+Solutions+Architect;Building+Agentic+AI%2C+Web+%26+Web3+Systems+on+Claude;Generative+AI+%7C+FinTech+%7C+HealthTech+%7C+Maps+%7C+Crypto" />
-    <img alt="Senior Forward Deployed Engineer and Solutions Architect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1A7F37&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Forward+Deployed+Engineer+%26+Solutions+Architect;Building+Agentic+AI%2C+Web+%26+Web3+Systems+on+Claude;Generative+AI+%7C+FinTech+%7C+HealthTech+%7C+Maps+%7C+Crypto" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Forward+Deployed+Engineer+%26+Solutions+Architect;Building+AI+Agents%2C+Web+%26+Web3+Systems;Generative+AI+%7C+FinTech+%7C+HealthTech+%7C+Maps+%7C+Crypto" />
+    <img alt="Senior Forward Deployed Engineer and Solutions Architect" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1A7F37&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Forward+Deployed+Engineer+%26+Solutions+Architect;Building+AI+Agents%2C+Web+%26+Web3+Systems;Generative+AI+%7C+FinTech+%7C+HealthTech+%7C+Maps+%7C+Crypto" />
   </picture>
 </a>
 
@@ -16,18 +16,24 @@
 <a href="https://stackoverflow.com/users/5650793/umar-farooq-aslam"><img src="https://img.shields.io/badge/Stack_Overflow-161B22?style=for-the-badge&logo=stackoverflow&logoColor=3FB950" alt="Stack Overflow"/></a>&nbsp;
 <a href="mailto:meher.umi@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email"/></a>
 
+<br/>
+
+<a href="https://www.linkedin.com/in/umarfarooqaslam/details/certifications/"><img src="https://img.shields.io/badge/Claude_Certified_Architect-Anthropic-1A7F37?style=for-the-badge&labelColor=161B22" alt="Claude Certified Architect, Anthropic"/></a>
+
 </div>
 
 ---
 
 ### About me
 
-**Senior forward deployed engineer** in Toronto with 10+ years across fintech, web3, maps and healthtech. I build agentic AI on Claude and the full stack around it: the APIs, auth, data, evals and the boring parts that decide whether it still works on day 90. Claude Certified Architect (Anthropic).
+**Senior forward deployed engineer** in Toronto with 10+ years across fintech, web3, maps and healthtech. I build AI agents and the full stack around them: the APIs, auth, data, evals and the boring parts that decide whether it still works on day 90.
 
-<!-- receipts:start -->
-**Past 12 months:** 7,029 contributions, 99% of them in private client repos. That is why the public repos below are quiet.
-<!-- receipts:end -->
-<sub>That line rewrites itself every Monday from the GitHub API. See <a href=".github/workflows/receipts.yml">receipts.yml</a>.</sub>
+<a href=".github/workflows/receipts.yml">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/receipts-dark.svg" />
+    <img src="assets/receipts-light.svg" width="100%" alt="Contribution receipts for the past 12 months: almost all of it in private client repos" />
+  </picture>
+</a>
 
 ---
 
@@ -74,7 +80,8 @@
 ### Tech I work with
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=claude&logoColor=3FB950" alt="Claude" />
+  <img src="https://img.shields.io/badge/AI_Agents-161B22?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM_Apps-161B22?style=for-the-badge" alt="LLM Apps" />
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3FB950" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=3FB950" alt="FastAPI" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3FB950" alt="TypeScript" />

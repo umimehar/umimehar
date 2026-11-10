@@ -14,36 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Rewrite the receipts line
-        uses: actions/github-script@v9
-        with:
-          script: |
-            const fs = require('fs');
-            const { user } = await github.graphql(`
-              query($login: String!) {
-                user(login: $login) {
-                  contributionsCollection {
-                    contributionCalendar { totalContributions }
-                    restrictedContributionsCount
-                  }
-                }
-              }`, { login: context.repo.owner });
-            const c = user.contributionsCollection;
-            const total = c.contributionCalendar.totalContributions;
-            if (!total) throw new Error('GitHub returned zero contributions; refusing to overwrite README');
-            const share = Math.floor((c.restrictedContributionsCount / total) * 100);
-            const line = `**Past 12 months:** ${total.toLocaleString('en-US')} contributions, ` +
-              `${share}% of them in private client repos. That is why the public repos below are quiet.`;
-            const readme = fs.readFileSync('README.md', 'utf8');
-            const block = /<!-- receipts:start -->[\s\S]*?<!-- receipts:end -->/;
-            if (!block.test(readme)) throw new Error('receipts markers missing from README.md');
-            fs.writeFileSync('README.md',
-              readme.replace(block, `<!-- receipts:start -->\n${line}\n<!-- receipts:end -->`));
+      - name: Draw the receipts card
+        run: node .github/scripts/receipts.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
-          git diff --quiet && exit 0
+          git add assets
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "chore: refresh contribution receipts"
+          git commit -m "chore: refresh contribution receipts"
           git push
