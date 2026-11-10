@@ -1,109 +1,54 @@
-<div align="center">
+## Umar Farooq Aslam
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Software+Engineer+%26+Solutions+Architect;Building+Scalable+AI%2C+Web+%26+Web3+Systems;Generative+AI+%7C+FinTech+%7C+HealthTech+%7C+Maps+%7C+Crypto" alt="Typing SVG" /></a>
+**Senior forward deployed engineer.** I build agentic AI on Claude and the full stack around it: the APIs, auth, data, evals and the boring parts that decide whether it still works on day 90.
 
-<br/>
+Toronto · 10+ years · fintech, web3, maps, healthtech · Claude Certified Architect (Anthropic)
 
-<a href="https://linkedin.com/in/umarfarooqaslam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://twitter.com/umimeharr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/5650793/umar-farooq-aslam"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
-<a href="mailto:meher.umi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+> Holds up in production, not just in the demo.
 
-</div>
+<!-- receipts:start -->
+**Past 12 months:** 7,024 contributions, 93% of them in private client repos. That is why the public repos below are quiet.
+<!-- receipts:end -->
+<sub>That line rewrites itself every Monday from the GitHub API. See <a href=".github/workflows/receipts.yml">receipts.yml</a>.</sub>
 
----
+### Production log
 
-### About Me
+```diff
+@@ 2026 @@
++ Delo (Deloitte)    AI bookkeeping and compliance platform. NetSuite integration, Auth0 then
++                    Cognito migration, hash chained audit trail. 191 merged PRs across 13 repos
++ Reggie             Founding engineer. Empty repo to a working compliance app in 3 weeks:
++                    FastAPI, Postgres row level security, React, then templates for the next apps
++ GTAA               Architecture review of Pearson Airport Work Authorization before rollout
 
-Senior Software Engineer & Solutions Architect building and scaling web & mobile applications across **Web3, FinTech, HealthTech, and Maps**. Proven end-to-end owner delivering secure, high-performance products for top-tier clients including **Coinbase**, **Google**, and **Berachain**.
+@@ 2025 @@
++ Berachain          Canonical token bridge on LayerZero, live for mainnet launch
++ Google Maps        3D immersive retail demo on Photorealistic 3D Tiles and Cesium
++ Heron Finance      Private markets allocation engine and investor dashboards
++ Hibachi            Crypto trading UI on TradingView, market selector, order placement
 
-- Modernized **Coinbase's web wallet** and integrated **Farcaster Frames** into the Base app
-- Led frontend development of the **Berachain Token Bridge** (LayerZero, cross-chain)
-- Built crypto trading interfaces, private-market investment platforms, and M&A due diligence tools
-- Architected microservices, microfrontends, and CI/CD pipelines on **AWS & Azure**
-- Led engineering teams, scaled products from **zero to launch**, and built **HIPAA-compliant** healthcare platforms
-- Owned engineering for Coinbase's **Onchain Summer 2** campaign — daily on-chain experiences + hackathon with **200 ETH** in prizes
+@@ 2021 to 2024 @@
++ Coinbase           Web wallet modernization, Onchain Summer 2, Farcaster Frames in Base
++ ICONIQ Capital     Tools for teams managing family office and UHNW assets
++ Elbe AI            M&A due diligence workflows on Google Document AI
++ Jimini Health      First version of the React Native app and Fastify services
++ Cognito Health     NestJS backend and admin portal under HIPAA and PIPEDA
++ Sudoswap           NFT trading UI with batched multicall transactions
++ LavaPay            Microservices and microfrontends from day one, hired the team
 
----
+@@ 2018 to 2021 @@
++ Global Villages    First engineer, web marketplace MVP in five months
++ Mart SA            Grocery platform in Saudi Arabia, promoted to lead a team of five
+```
 
-### Tech Stack
+### How I work
 
-**Languages**
+- Start with a lean monolith; split into services when the team or the load asks for it.
+- Agents get tools, evals and a clear point where they stop and ask a human.
+- Ship behind flags, watch the logs, write down the decision.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Daily stack:** Python, FastAPI, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS, Azure, Terraform, Claude.
 
-**Frontend**
+### Elsewhere
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
-![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=umimehar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umimehar&theme=tokyonight" alt="GitHub Stats" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umimehar&theme=tokyonight" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=umimehar&color=70a5fd&style=flat&label=Profile+Views" alt="Profile Views" />
-
-</div>
+[LinkedIn](https://linkedin.com/in/umarfarooqaslam) · [X](https://x.com/umimeharr) · [Stack Overflow](https://stackoverflow.com/users/5650793/umar-farooq-aslam) · [Email](mailto:meher.umi@gmail.com)
