@@ -13,7 +13,6 @@
 
 <a href="https://linkedin.com/in/umarfarooqaslam"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=3FB950" alt="LinkedIn"/></a>&nbsp;
 <a href="https://x.com/umimehar_ai"><img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=3FB950" alt="X"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/5650793/umar-farooq-aslam"><img src="https://img.shields.io/badge/Stack_Overflow-161B22?style=for-the-badge&logo=stackoverflow&logoColor=3FB950" alt="Stack Overflow"/></a>&nbsp;
 <a href="mailto:meher.umi@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email"/></a>
 
 <br/>
