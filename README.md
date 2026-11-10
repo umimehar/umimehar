@@ -7,7 +7,7 @@ Toronto · 10+ years · fintech, web3, maps, healthtech · Claude Certified Arch
 > Holds up in production, not just in the demo.
 
 <!-- receipts:start -->
-**Past 12 months:** 7,027 contributions, 100% of them in private client repos. That is why the public repos below are quiet.
+**Past 12 months:** 7,029 contributions, 99% of them in private client repos. That is why the public repos below are quiet.
 <!-- receipts:end -->
 <sub>That line rewrites itself every Monday from the GitHub API. See <a href=".github/workflows/receipts.yml">receipts.yml</a>.</sub>
 
